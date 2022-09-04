@@ -30,10 +30,10 @@ Security work and interesting research
 <!-- <br />
 
 <!-- Languages -->
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <!-- Certs -->
-<img align="left" alt="Cisco CCNP Sec" width="40px" src="https://images.credly.com/images/cd769843-4907-4d1a-9702-0512eb87ae6e/twitter_thumb_201604_cisco_ccnp_security.png" />
+<img align="left" alt="Cisco CCNP Sec" width="80px" src="https://images.credly.com/images/cd769843-4907-4d1a-9702-0512eb87ae6e/twitter_thumb_201604_cisco_ccnp_security.png" />
 <img align="left" alt="Sec+" width="40px" src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png"
 
 <!-- <br />
