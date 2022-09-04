@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <br />
 
 - ## 📫 How to reach me...
- - https://almacaribe.co/business_profile.html
+https://almacaribe.co/business_profile.html
 
 - ## 👯 I’m looking to collaborate on ...
- - Security work and interesting research
+Security work and interesting research
 <br />
 ## Technologies:
 <!-- OS -->
