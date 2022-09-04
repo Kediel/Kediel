@@ -35,7 +35,7 @@ Security work and interesting research
 <!-- Certs -->
 <img align="left" alt="Cisco CCNP Sec" width="40px" src="https://images.credly.com/images/cd769843-4907-4d1a-9702-0512eb87ae6e/twitter_thumb_201604_cisco_ccnp_security.png" />
 
-<img align="left" alt="Sec+" width="120px" src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png"
+<img align="left" alt="Sec+" width="120px" src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png" />
 
 <!-- <br />
 
