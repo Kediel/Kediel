@@ -33,6 +33,7 @@ Security work and interesting research
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
+<!-- <br />
 ## Certs:
 <!-- Certs -->
 <img align="left" alt="Cisco CCNP Sec" width="40px" src="https://images.credly.com/images/cd769843-4907-4d1a-9702-0512eb87ae6e/twitter_thumb_201604_cisco_ccnp_security.png" />
