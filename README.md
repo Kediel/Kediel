@@ -25,7 +25,7 @@ Security work and interesting research
 <br />
 ## Technologies:
 <!-- OS -->
-<img align="left" alt="Kali" width="40px" src="https://camo.githubusercontent.com/3f86b91e17493b190c20f4a2a56f06649372a43e29bf969d91bbf322fefe9668/68747470733a2f2f6769746c61622e636f6d2f6b616c696c696e75782f646f63756d656e746174696f6e2f677261706869632d7265736f75726365732f2d2f7261772f6d61737465722f6b616c692d6c6f676f2d323031362d776974682d647261676f6e2f6b616c692d6c6f676f2d647261676f6e2e706e67" />
+<img align="left" alt="Kali" width="40px" src="https://www.pngegg.com/en/png-tqmvs" />
 
 <!-- <br />
 
@@ -37,6 +37,8 @@ Security work and interesting research
 <img align="left" alt="Cisco CCNP Sec" width="40px" src="https://images.credly.com/images/cd769843-4907-4d1a-9702-0512eb87ae6e/twitter_thumb_201604_cisco_ccnp_security.png" />
 
 <img align="left" alt="Sec+" width="120px" src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png" />
+
+<img align="left" alt="Sec+" width="120px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1419919278/wstic6jgvfo2133z1l39.png" />
 
 <!-- <br />
 
