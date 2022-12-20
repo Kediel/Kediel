@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋
-## I'm a Security Consultant
-
+## I'm a Security Researcher
+Currently working in the Privacy, Security, and Automation Laboratory (PSAL) at Tandon. 
 <br />
 
 - ## 📫 How to reach me...
