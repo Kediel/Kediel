@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there 👋
 ## I'm a Security Researcher
 Currently working in the Privacy, Security, and Automation Laboratory (PSAL) at Tandon.<br>
-Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member!
+Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot.
 
 ## 📫 How to reach me...
 https://almacaribe.co/business_profile.html
