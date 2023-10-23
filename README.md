@@ -40,3 +40,4 @@ Security work and interesting research
 
 <img align="left" alt="LHC" width="120px" src="![lhc_logo_dc27 (https://github.com/Kediel/Kediel/assets/13355860/565c89a0-956a-47dd-a840-0f9590cc063f)" />
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="599b1fdf-95ee-4b9a-830b-4fa82215b2e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
