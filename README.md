@@ -38,5 +38,5 @@ Security work and interesting research
 
 <img align="left" alt="2600" width="120px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1419919278/wstic6jgvfo2133z1l39.png" />
 
-<img align="left" alt="LHC" width="120px" src="[https://lonelyhackers.club/lhc_logo_dc27.png](https://lonelyhackers.club/lhc_logo_dc27.png)https://lonelyhackers.club/lhc_logo_dc27.png" />
+<img align="left" alt="LHC" width="120px" src="![lhc_logo_dc27 (https://github.com/Kediel/Kediel/assets/13355860/565c89a0-956a-47dd-a840-0f9590cc063f)" />
 
