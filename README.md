@@ -37,3 +37,6 @@ Security work and interesting research
 <img align="left" alt="Sec+" height="60px" width="120px" src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png" />
 
 <img align="left" alt="2600" width="120px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1419919278/wstic6jgvfo2133z1l39.png" />
+
+<img align="left" alt="LHC" width="120px" src="[https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1419919278/wstic6jgvfo2133z1l39.png](https://lonelyhackers.club/lhc_logo_dc27.png)https://lonelyhackers.club/lhc_logo_dc27.png" />
+
