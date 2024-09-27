@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋
 ## I'm a Security Researcher
-Currently working in the Privacy, Security, and Automation Laboratory (PSAL) at Tandon.<br>
-Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot.
+Currently working in Industry as a Cyber Engineer.
+
+Previously a research assistant in the Privacy, Security, and Automation Laboratory (PSAL) at Drexel CCI and Tandon.<br>
+Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot alumni.
 
 ## 📫 How to reach me...
 https://almacaribe.co/business_profile.html
 
 ## 👯 I’m looking to collaborate on...
-Security work and interesting research
+Interesting research in Quant/Security/Privacy domains.
 
 ## Technologies:
 <!-- OS -->
