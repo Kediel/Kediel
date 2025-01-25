@@ -1,24 +1,27 @@
-# Greetings all 👋
-## I'm a Security Researcher 
+# Mahalo 🗿
+## I'm a Security Researcher 🏴‍☠️
 Currently working in Industry as a Cyber Engineer.
 
 Previously a research assistant in the Privacy, Security, and Automation Laboratory (PSAL) at Drexel CCI and Tandon.<br>
 Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot alumni.
 
-## 📫 How to reach me...
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:k3m85)
+## How to reach me 📫
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/k3m85)
 [![Email Badge](https://img.shields.io/badge/Email_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:kedielm@acm.org)
 
-## 👯 I’m looking to collaborate on...
+## I’m looking to collaborate on 🪢
 Interesting research in:
 
-- Security
+- Computer Security
+- Reverse Engineering
 - Privacy
 - Quantitative Finance
 
 ## Technologies:
 <!-- OS -->
 [![kali linux](https://img.shields.io/badge/kali%20linux-8A2BE2)](https://www.kali.org/)
+
+<!-- Tech -->
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
@@ -61,6 +64,8 @@ Interesting research in:
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)
+
+<!-- AI tools -->
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
@@ -76,7 +81,6 @@ Interesting research in:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
