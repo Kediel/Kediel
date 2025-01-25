@@ -7,7 +7,7 @@ Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member
 
 ## 📫 How to reach me...
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:k3m85)
-[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
+[![Email Badge](https://img.shields.io/badge/Email_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:kedielm@acm.org)
 
 ## 👯 I’m looking to collaborate on...
 Interesting research in:
