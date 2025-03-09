@@ -1,4 +1,5 @@
-# Mahalo 🗿
+# <img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif"> [Ḿ̴̨͚͈̂̈͆͌̐͑̏̕͝a̴̬̓̇̀̔̕h̴̦̺̲͒a̷͉̫̭̜̦̗̖͆̌ḷ̴̲̌̒̆̉͊͛̐̀̃͝o̴͇͍̩̎̏](#a%CC%B5%CD%9B%CD%84%CD%91%CC%8C%CC%BA%CC%BC%CC%A0%CC%AB%CD%9A%CD%99%CD%8E%CD%87b%CC%B8%CC%83%CD%8C%CD%9D%CD%81%CD%9D%CC%8F%CC%91%CC%87%CD%8B%CC%9B%CC%AE%CC%97%CC%BA%CD%89%CC%B0o%CC%B4%CD%80%CD%98%CC%8D%CC%AA%CD%96%CC%A1%CC%BB%CC%B1%CC%AB%CD%87%CC%AAu%CC%B5%CC%95%CD%91%CC%8B%CC%8C%CC%82%CD%9B%CC%BD%CC%8D%CC%8C%CC%92%CD%9A%CD%99%CD%89%CC%B3%CC%A8%CC%B1%CC%AF%CC%B3%CC%A9%CD%9At%CC%B5%CC%88%CD%96%CD%94%CC%B3%CC%9C%CC%AC%CC%9D%CC%9D%CD%89%CC%AA-%CC%B8%CC%89%CC%94%CD%83%CD%8C%CD%82%CD%8C%CD%9B%CC%8E%CD%81%CC%BB%CC%A6%CC%A3%CD%93%CC%AA%CD%89%CC%B3%CD%96%CC%9C%CC%BAm%CC%B7%CC%8F%CC%BE%CD%83%CC%A3e%CC%B8%CC%84%CD%86%CC%BD%CC%BE%CC%8E%CD%84%CC%8A%CD%87%CD%96%CC%B3%CC%B2-) <img src="https://raw.githubusercontent.com/HotCakeX/Harden-Windows-Security/main/images/Gifs/ghost.gif" width=""/>
+
 ## I'm a Security Researcher 🏴‍☠️
 Currently working in Industry as a Cyber Engineer.
 
@@ -17,7 +18,7 @@ Interesting research in:
 - Privacy
 - Quantitative Finance
 
-## Technologies:
+## <img src="https://raw.githubusercontent.com/HotCakeX/Harden-Windows-Security/main/images/Gifs/clapping panda.gif" width=""/> Technologies:
 <!-- OS -->
 [![kali linux](https://img.shields.io/badge/kali%20linux-8A2BE2)](https://www.kali.org/)
 
@@ -26,7 +27,6 @@ Interesting research in:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -41,8 +41,9 @@ Interesting research in:
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+
+<br>
+
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -59,17 +60,25 @@ Interesting research in:
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-[Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Z Cash](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)
 
+<br>
+
+<!-- Data Science -->
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <!-- AI tools -->
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
+<br>
 
 <!-- Languages -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -85,7 +94,7 @@ Interesting research in:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Certs:
+## <img src="https://user-images.githubusercontent.com/118815227/218338592-6483fb60-6e85-4594-b3e7-c537e248b13d.gif" width=""/>Certs:
 <!-- Certs -->
 [![Sec+](https://img.shields.io/badge/CompTIA%20Security+-E25728)](https://www.credly.com/badges/b16000a0-5458-493f-b002-d7ed288f3030/public_url) [![Linux+](https://img.shields.io/badge/CompTIA%20Linux+-E25728)](https://www.credly.com/badges/67f20d08-9c15-47fb-a8e8-fe96a71f7d14/public_url) [![RTFM](https://img.shields.io/badge/RTFM-E25728)](https://www.credly.com/badges/599b1fdf-95ee-4b9a-830b-4fa82215b2e7/public_url)
 
