@@ -3,7 +3,7 @@
 ## I'm a Security Researcher 🏴‍☠️
 Currently working in Industry as a Cyber Engineer.
 
-Previously a research assistant in the Privacy, Security, and Automation Laboratory (PSAL) at Drexel CCI and Tandon.<br>
+Previously a research assistant in the Privacy, Security, and Automation Laboratory (PSAL) at Drexel CCI then NYU Tandon.<br>
 Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot alumni.
 
 ## How to reach me 📫
