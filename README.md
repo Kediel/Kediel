@@ -7,6 +7,7 @@ Previously a research assistant in the Privacy, Security, and Automation Laborat
 Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot alumni.
 
 ## How to reach me 📫
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](@k3ma5.bsky.social)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/k3m85)
 [![Email Badge](https://img.shields.io/badge/Email_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:kedielm@acm.org)
 
