@@ -98,4 +98,5 @@ Interesting research in:
 ## <img src="https://user-images.githubusercontent.com/118815227/218338592-6483fb60-6e85-4594-b3e7-c537e248b13d.gif" width=""/>Certs:
 <!-- Certs -->
 [![Sec+](https://img.shields.io/badge/CompTIA%20Security+-E25728)](https://www.credly.com/badges/b16000a0-5458-493f-b002-d7ed288f3030/public_url) [![Linux+](https://img.shields.io/badge/CompTIA%20Linux+-E25728)](https://www.credly.com/badges/67f20d08-9c15-47fb-a8e8-fe96a71f7d14/public_url) [![RTFM](https://img.shields.io/badge/RTFM-E25728)](https://www.credly.com/badges/599b1fdf-95ee-4b9a-830b-4fa82215b2e7/public_url) [![Snyk Security for Developers](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/138626216)](https://credentials.engineering.nyu.edu/b7cb5d08-8651-41fa-9fcd-e287cb278672)
+<img width="200" height="200" alt="CEH_2E345519D3F7" src="https://github.com/user-attachments/assets/84bafd54-0d06-436f-9b24-df51e89aa69b"/>
 
