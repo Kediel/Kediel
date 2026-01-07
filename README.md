@@ -4,7 +4,7 @@
 Currently working in Industry as a Cyber Engineer.
 
 Previously a research assistant in the Privacy, Security, and Automation Laboratory (PSAL) at Drexel CCI then NYU Tandon.<br>
-Offensive Security, Incident Response, and Internet Security (OSIRIS) lab member and Infrastructure Zealot alumni.
+Offensive Security, Incident Response, and Internet Security (OSIRIS) lab alumni and Infrastructure Zealot alumni.
 
 ## How to reach me 📫
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](@k3ma5.bsky.social)
